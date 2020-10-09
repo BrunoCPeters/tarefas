@@ -1,0 +1,6 @@
+- Desenvolvido em VUE.js com VUE CLI, todos tutorias que vi era para ser feito assim; 
+- Não passado para ionic, como é um recurso 'novo' tem poucas teorias ainda, não consegui passar ai, para não deixar essa parte em branco desenvolvi usando somente o VUE.JS;
+- Não consegui apresentar, pois no dia estava em reunião do meu serviço, para alinhamento da equipe, saindo do serviço apenas as 22:30. 
+- Fiz o trabalho sozinho, achei melhor para não levar ngm nas costas e nem prejudicar ninguem.
+- Desenvolvimento, feito uma lista de tarefas, aonde voce pode adicionar, com uma contagem, e o botao de comcluir(excluir), um desenvolvimento mais simples mais acredito que atenda a maioria dos requisitos que o professor pediu;
+- Vi Foruns que consta que é feito o desenvolvimento em web e após passa para ionic para ser comercializado em lojas como appStore, ou PlayStore. porem não consegui fazer ele rodar com o Ionic para o celular, apena rodando no celular para web;
